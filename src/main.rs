@@ -41,7 +41,7 @@ fn main() {
     // println(this_is_nested_block) Error - ❌
     // println(this_is_main_block) Correct - ✅
 
-    //5️⃣---------------------------- Changing Mutability of Variables & Shadowing of Variables ----------------------------
+    //5️⃣---------------------------- 🔒 Changing Mutability of Variables & Shadowing of Variables 🔒 ----------------------------
     let mut x = 5; // x is Mutable - ✅
     let x = x; // x is Immutable - 🚧
 
